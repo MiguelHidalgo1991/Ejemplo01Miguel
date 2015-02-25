@@ -11,4 +11,5 @@ int propiedadCinco;
 int propiedadSiete;
 int propiedadOcho;
 int propiedadNueveJose;
+int nuevocambio;
 }
